@@ -1,5 +1,5 @@
 ### WT_Project
-The is an NLP Project regarding Tweets about the University of the Witwatersrand
+The is an NLP Project on Tweet Documents
 
 #### Credentials
 From your Twitter developer account, generate credentials and connect to Twitter through its REST API for a specified track term (s).
