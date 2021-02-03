@@ -1,14 +1,14 @@
-### WT_Project
-The is an NLP Project on Tweet Documents
+### A text analysis project
+This explores the applicaation of NLP for tweet documents
 
-#### Credentials
+#### Credentials and Access
 From your Twitter developer account, generate credentials and connect to Twitter through its REST API for a specified track term (s).
 
 #### Libraries and Dependencies
-Install required packages and import
+Install required packages and import to working area
 
 #### Corpus Processing through an iterative ETL Pipeline
-Visualise trends and criticise insights
+Visualise trends, criticise insights and optimise
 
 #### Sentiment Analysis
 See polarity interpretation through TextBlob
